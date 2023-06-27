@@ -1,0 +1,33 @@
+[
+  {
+    "question":"What is the Capital of India?",
+    "choices":["Mumbai","Chennai","Pune","New Delhi"],
+    "correct_ans":"New Delhi"
+  },
+  {
+    "question":"Who was India's first Prime Minister?",
+    "choices":["Jawaharlal Nehru", "Indira Gandhi", "Mahatman Gandhi", "Vallabhbhai Patel"],
+    "correct_ans":"Jawaharlal Nehru"
+  },
+
+    {
+      "question":"What is the capital of France?",
+    "choices":["Paris","London","Berlin","Madrid"],
+    "correct_ans":"Paris"
+  },
+  {
+    "question":"Who painted the Mona Lisa?",
+    "choices":["Leonardo da Vinci","Pablo Picasso","Vincent van Gogh","Michelangelo"],
+    "correct_ans":"Leonardo da Vinci"
+  },
+{
+  "question":"Who is the CEO of google?",
+    "choices":["Sunder pichai","Satya nadella","Elon Musk","Gaurav Nagrale"],
+    "correct_ans":"Sunder pichai"
+  },
+{
+  "question":"Who is the First Person to climb Mount Everest from India",
+    "choices":["Avatar Singh","Edmund Hillary","Neil Armstrong","None"],
+    "correct_ans":"Avatar Singh"
+  }
+]
